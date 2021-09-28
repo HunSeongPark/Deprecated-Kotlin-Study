@@ -9,8 +9,8 @@ Kotlin 공부 기록용 README
 ⭕️ Coroutine - 21.09.22       
 ⭕️ Koin - 21.09.23        
 📖 Dagger2         
-Data Binding          
-RxJava, RxKotlin      
+📖 Data Binding          
+📖 RxJava, RxAndroid           
 Test Code         
 
 
