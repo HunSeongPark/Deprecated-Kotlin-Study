@@ -1,17 +1,8 @@
-# Kotlin-Study-List
-Kotlin 공부 기록용 README        
-
+# Kotlin-Study-List           
+Kotlin 공부 기록용 README          
+21.11.11 - 기초부터 확실하게. 처음으로 돌아가 Kotlin 문법부터 다시 제대로 익힐 수 있도록 한다.            
 ## Log 📝          
-⭕️  Kotlin 기초 (동영상 강의) - 21.09.06       
-⭕️  아키텍처 패턴(MVP) - 21.09.10       
-⭕️  Live Data - 21.09.12           
-⭕️  아키텍처 패턴(MVVM), AAC - 21.09.18            
-⭕️  Coroutine - 21.09.22       
-⭕️  Koin - 21.09.23        
-📖  Dagger2         
-📖  Data Binding          
-📖  RxJava, RxAndroid           
-Test Code         
+📖 Kotlin 문법                  
 
 
 
