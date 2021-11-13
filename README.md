@@ -9,7 +9,9 @@ Kotlin 문법, 이론지식 공부 기록
 * 21.11.12 : Kotlin 문법          
   * [Class, Interface](https://hungseong.tistory.com/18?category=518366)        
 * 21.11.13 : Gradle             
-  * [Gradle](https://hungseong.tistory.com/19)              
+  * [Gradle](https://hungseong.tistory.com/19)           
+* 21.11.14 : Activity
+  * [Activity, lifecycle](https://hungseong.tistory.com/21)           
 
 
 
