@@ -7,7 +7,9 @@ Kotlin 문법, 이론지식 공부 기록
   * [범위지정함수](https://hungseong.tistory.com/16?category=518366)           
   * [Type, String, Array](https://hungseong.tistory.com/17?category=518366)             
 * 21.11.12 : Kotlin 문법          
-  * [Class, Interface](https://hungseong.tistory.com/18?category=518366)               
+  * [Class, Interface](https://hungseong.tistory.com/18?category=518366)        
+* 21.11.13 : Gradle             
+  * [Gradle](https://hungseong.tistory.com/19)              
 
 
 
