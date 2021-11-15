@@ -12,6 +12,8 @@ Kotlin 문법, 이론지식 공부 기록
   * [Gradle](https://hungseong.tistory.com/19)           
 * 21.11.14 : Activity
   * [Activity, lifecycle](https://hungseong.tistory.com/21)           
+* 21.11.16 : Broadcast Receiver
+  * [Broadcast Receiver의 백그라운드 작업](https://hungseong.tistory.com/22)               
 
 
 
