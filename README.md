@@ -15,6 +15,8 @@ Kotlin 문법, 이론지식 공부 기록
 * 21.11.16
   * [Broadcast Receiver의 백그라운드 작업](https://hungseong.tistory.com/22)               
   * [View와 ViewGroup](https://hungseong.tistory.com/23)                
+* 21.11.17
+  * [DiffUtil, AsyncListDiffer, ListAdapter](https://hungseong.tistory.com/24)             
 
 
 
