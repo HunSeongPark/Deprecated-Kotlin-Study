@@ -1,4 +1,4 @@
-# Kotlin-Study              
+# (Deprecated) Kotlin-Study              
 Kotlin 문법, 이론지식 공부 기록                                       
 * 해당 README의 공부내용은 블로그(링크)에 기록                       
 
